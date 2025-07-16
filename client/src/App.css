@@ -1,0 +1,12 @@
+.chat-page {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+input[type='text'] {
+  padding: 0.5rem;
+  width: 80%;
+  margin-right: 0.5rem;
+}
